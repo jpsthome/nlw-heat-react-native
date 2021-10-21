@@ -7,8 +7,6 @@ export const styles = StyleSheet.create({
 		alignItems: "center",
 	},
 	avatar: {
-		// borderWidth: 4,
-		// borderColor: COLORS.BLACK_SECONDARY,
 		borderWidth: 4,
 		borderColor: COLORS.BLACK_SECONDARY,
 	},
